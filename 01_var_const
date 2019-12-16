@@ -1,0 +1,13 @@
+package main
+import {
+	'fmt'
+}
+
+// 全局变量
+var i int 
+
+func main(){
+	title,author := "hello,world"，"Able"
+	:= 
+	
+}
